@@ -28,6 +28,5 @@ public class Solution2Test {
         String expected4 = "abcdef";
         assertEquals(expected4, solution.removeDuplicateLetters(input4));
 
-
     }
 }

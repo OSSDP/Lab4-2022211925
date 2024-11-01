@@ -12,7 +12,7 @@ public class Main {
         String result = solution.removeDuplicateLetters(input);
         System.out.println("Input: " + input + ", Output: " + result);
         // 关闭 Scanner
-        scanner.close();
+        scanner.close();//这是个不同的dev分支
 
 
         // 测试用例 1
